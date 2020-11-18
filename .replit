@@ -1,0 +1,1 @@
+run="chmod 557 run.sh;./run.sh"
